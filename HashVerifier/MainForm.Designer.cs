@@ -184,7 +184,7 @@ namespace HashVerifier
             this.MaximizeBox = false;
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "HashVerifier (by Sergio Inga)";
+            this.Text = "HashVerifier (by D3m0n1um)";
             this.ResumeLayout(false);
             this.PerformLayout();
 
